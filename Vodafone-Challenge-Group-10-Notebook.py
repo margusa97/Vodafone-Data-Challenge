@@ -2,8 +2,8 @@
 # coding: utf-8
 
 # # Vodafone Challenge group X
-# ## Comprehensive Notebook
-# This notebook includes most of the things we have tried, organized in a nice way. In the file VodafoneChallenge_Clustering file only the necessary parts are taken, based on what worked best on test sets here.
+# ## Comprehensive Script
+# This script includes most of the things we have tried, organized in a nice way. In the  VodafoneChallenge_Clustering script only the necessary parts are taken, based on what worked best on test sets here.
 # ## Structure
 # 1. Pipeline 
 # 2. Issues Encountered
